@@ -133,4 +133,4 @@ print("a+b+c")
 sõbrad=int(input("kui palju sõbraid?: "))
 hind=12.90
 hind/=sõbrad
-print("hinnad on" ,hind)
+print("iga sõber maksab" ,hind)
